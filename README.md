@@ -2,7 +2,8 @@
 Physiologically-Based Pharmacokinetic (PBPK) Modeling of Buprenorphine in Adults, Children and Preterm Neonates
 
 ### Repository Files
-Within this repository, we distribute whole-body PBPK models of buprenorphine in adults, children and preterm neonates. The adult PBPK model has been carefully built and evaluated for the prediction of buprenorphine and norbuprenorphine venous and arterial blood plasma concentration-time profiles after intravenous administration in adults. The model has been used for the assessment of buprenorphine drug-drug interactions with clarithromycin, itraconazole as well as rifampicin. Subsequently, the adult PBPK model has been scaled to both a child and a preterm neonate population for predictions of individual plasma concentration-time profiles.
+Within this repository, we distribute whole-body PBPK models of buprenorphine in adults, children and preterm neonates. The adult PBPK model has been carefully built and evaluated for the prediction of buprenorphine and norbuprenorphine venous and arterial blood plasma concentration-time profiles after intravenous administration in adults. The model has been used for the assessment of buprenorphine drug-drug interactions with clarithromycin, itraconazole as well as rifampicin. 
+Subsequently, the adult PBPK model has been scaled to both a child and a preterm neonate population for predictions of individual plasma concentration-time profiles.
 The PK-Sim project files contain simulations of all published clinical studies employed during model development, including the respective observed data digitized from literature reports. For further details, quantitative model evaluation, local sensitivity analysis and extensive documentation please refer to [1].
 
 
