@@ -17,4 +17,4 @@ Everyone interacting in the Open Systems Pharmacology community (codebases, issu
 The model is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE).
 
 ### Reference
-[1] Kovar L, Schräpel C, Selzer D, Kohl Y, Bals R, Schwab M, Lehr T. Physiologically-Based Pharmacokinetic (PBPK) Modeling of Buprenorphine in Adults, Children and Preterm Neonates. Pharmaceutics. 2020; 12(6):578. 
+[1] Kovar L, Schräpel C, Selzer D, Kohl Y, Bals R, Schwab M, Lehr T. Physiologically-Based Pharmacokinetic (PBPK) Modeling of Buprenorphine in Adults, Children and Preterm Neonates. Pharmaceutics. 2020; 12(6):578. https://www.mdpi.com/1999-4923/12/6/578
